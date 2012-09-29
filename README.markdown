@@ -1,14 +1,6 @@
-This is my repository for homotopy type theory.
-The Coq part is not updated anymore, please see the Agda directory for more up-to-date developments.
+This repository is now obsolete, see the HoTT-Agda repository for an up-to-date
+development in Agda.
 
-Original README
----------------
-
-A development of homotopy-theoretic foundations of mathematics.
-
-This is the repository for the Coq files of the [Homotopy Type Theory
-project](http://homotopytypetheory.org/). You can fork this repository to
-your own and then be automatically kept up to date on new developments. You
-can also contribute back into it by sending a pull request.
-
-You will need Coq version 8.3 or newer to compile the files.
+There is still stuff in the Coq part which has not been reproduced anywhere
+else (for instance the proof that the infinite-dimensional sphere is
+contractible).
